@@ -7,7 +7,7 @@ class Af_Youtube_Remove_Updated extends Plugin {
 			"Removes the 'updated' element of Youtube feeds. Bringing some order.",
 			"salomax",
 			false,
-			"https://github.com/sal0max/ttrss_af_youtube_remove_updated");
+			"https://github.com/sal0max/ttrss-af_youtube_remove_updated");
 	}
 
 	function api_version() {
